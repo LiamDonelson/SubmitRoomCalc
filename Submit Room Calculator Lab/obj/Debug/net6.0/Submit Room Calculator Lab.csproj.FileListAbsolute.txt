@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\bin\Debug\net6.0\Submit Room Calculator Lab.exe
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\bin\Debug\net6.0\Submit Room Calculator Lab.deps.json
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\bin\Debug\net6.0\Submit Room Calculator Lab.runtimeconfig.json
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\bin\Debug\net6.0\Submit Room Calculator Lab.dll
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\bin\Debug\net6.0\Submit Room Calculator Lab.pdb
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.dll
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\refint\Submit Room Calculator Lab.dll
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.pdb
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\Submit Room Calculator Lab.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Submit Room Calculator Lab\Submit Room Calculator Lab\obj\Debug\net6.0\ref\Submit Room Calculator Lab.dll
